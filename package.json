@@ -10,9 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node-fetch": "^2.5.7",
-    "chai": "^4.2.0",
-    "mocha": "^8.2.1",
     "telegraf": "^3.38.0"
   }
 }
